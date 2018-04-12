@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>PHP Sandbox</title>
+<title>Design Terms Catalog App</title>
 </head>
 
 <body>
